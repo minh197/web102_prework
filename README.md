@@ -2,7 +2,7 @@
 
 Submitted by: **Minh Nguyen**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea-Worthy** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **7** hours spent in total
 
